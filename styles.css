@@ -1,0 +1,35 @@
+body {
+    background-image: url(carrito-juguete-pequeno_23-2147961748.avif);
+}
+
+#title {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+img {
+    max-width: 50px;
+    margin-right: 10px;
+}
+
+#tabla {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+}
+.btn{
+    margin: 5px;
+    
+}
+.btn-group{
+    display: inline-block;
+    align-items: center;
+    justify-items: center;
+}
+
+#text-right {
+    text-align: right;
+}
